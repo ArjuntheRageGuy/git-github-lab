@@ -21,3 +21,6 @@ The purpose of this project is to:
 ## Author
 Created by **Arjun Jasper S. Rafon**  
 Email: **Ajrafon@gmail.com**
+
+## Feature Update Branch
+This section was added in the feature-update branch.
